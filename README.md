@@ -3,13 +3,13 @@
 # Python Assignment 2 – Data Structures
 
 
-## 📌 Google Colab Link
+##  Google Colab Link
 https://colab.research.google.com/drive/1hTfcX4zrEfQcwjPK84Qxjv-2q0d0ufzz?usp=sharing
 
-## 📌 Project Overview
+##  Project Overview
 This project contains basic Python exercises focused on data structures and conditional statements.
 
-## 📚 Topics Covered
+##  Topics Covered
 - List creation and operations
 - List indexing and slicing
 - Dictionary creation and modification
@@ -17,7 +17,7 @@ This project contains basic Python exercises focused on data structures and cond
 - Union and Intersection
 - Conditional statements (`if`, `elif`, `else`)
 
-## 🛠️ Tools Used
+##  Tools Used
 - Python
 - Google Colab
 
