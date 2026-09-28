@@ -21,6 +21,6 @@ This project contains basic Python exercises focused on data structures and cond
 - Python
 - Google Colab
 
-## 🎯 Learning Outcome
+##  Learning Outcome
 This assignment helped to understand how Python data structures are used to store, access, and modify data, along with using conditional statements for decision-making.
 
