@@ -2,6 +2,10 @@
 
 # Python Assignment 2 – Data Structures
 
+
+## 📌 Google Colab Link
+https://colab.research.google.com/drive/1hTfcX4zrEfQcwjPK84Qxjv-2q0d0ufzz?usp=sharing
+
 ## 📌 Project Overview
 This project contains basic Python exercises focused on data structures and conditional statements.
 
